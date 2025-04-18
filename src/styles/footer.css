@@ -1,0 +1,77 @@
+.footer{
+    min-height: 279px;
+    padding: 50px 0;
+}
+
+.footer__container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-logo{
+    height: 68px;
+    width: 256px;
+
+
+    cursor: pointer;
+
+    user-select: none;
+}
+
+.footer-logo img{
+    height: 68px;
+    width: 256px;
+}
+
+.footer-title{
+    margin-top: 10px;
+    user-select: none;
+}
+
+.footer-rights{
+    margin-top: 50px;
+    user-select: none;
+    cursor: pointer;
+    user-select: none;
+}
+
+.footer-content-2{
+    flex: 1 1 auto;
+
+    user-select: none;
+}
+
+.footer-content-3{
+    max-width: 195px;
+}
+
+.footer-p{
+    color: #000000;
+    opacity: 60%;
+}
+.footer-telefon-title{
+    margin-bottom: 5px;
+
+    user-select: none;
+}
+
+.footer-questions{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    user-select: none;
+    
+}
+.footer-questions-title{
+    margin-bottom: 5px;
+}
+
+.footer-form-link{
+    color: #FFAC12;
+    text-decoration: underline;
+
+    font-weight: 700;
+    font-size: 18px;
+   
+    
+}
