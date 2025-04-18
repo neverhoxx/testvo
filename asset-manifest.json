@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/testvo/static/css/main.ad10ecec.css",
+    "main.js": "/testvo/static/js/main.6ccc846e.js",
+    "static/media/kasulikku-bg.jpg": "/testvo/static/media/kasulikku-bg.e68dde241d1599bffe4f.jpg",
+    "static/media/sec1.jpg": "/testvo/static/media/sec1.7b8b73c78f53acdad859.jpg",
+    "static/media/environmental-engineers-working-together.jpg": "/testvo/static/media/environmental-engineers-working-together.c9d4ea8fb9a48b9802c3.jpg",
+    "static/media/productsimg.jpg": "/testvo/static/media/productsimg.2d9f3aebe936020df2b7.jpg",
+    "static/media/20929695.png": "/testvo/static/media/20929695.240e1cf8628964901fb8.png",
+    "static/media/16218787.png": "/testvo/static/media/16218787.01cf2dc44b6180b97fd0.png",
+    "static/media/HS25 3.png": "/testvo/static/media/HS25 3.637793e683fd0d4ab66a.png",
+    "static/media/huaweilogo.png": "/testvo/static/media/huaweilogo.1ed7a72b193f37972012.png",
+    "static/media/16305933.avif": "/testvo/static/media/16305933.3b8bc79158b2548d852c.avif",
+    "static/media/24586044.avif": "/testvo/static/media/24586044.ae1ecedc0a258fc2163e.avif",
+    "static/media/logo.png": "/testvo/static/media/logo.ff432e4c1fa705eaee3c.png",
+    "static/media/bat.avif": "/testvo/static/media/bat.60d8111d4f0d6cf59e7f.avif",
+    "static/media/19687787.avif": "/testvo/static/media/19687787.b8e88d394e323fdc27fa.avif",
+    "static/media/solaxlogo.avif": "/testvo/static/media/solaxlogo.4b5f2593bc5c6a158e5b.avif",
+    "static/media/16305923.avif": "/testvo/static/media/16305923.bf7edccc26176feb1217.avif",
+    "static/media/solax-pv-inverter-3f-solax-x3-ult-hubriid.avif": "/testvo/static/media/solax-pv-inverter-3f-solax-x3-ult-hubriid.34af3b2e70dd477e6ea7.avif",
+    "static/media/24676428.avif": "/testvo/static/media/24676428.df75667e17181756d84d.avif",
+    "static/media/24337781.avif": "/testvo/static/media/24337781.7eb2d252a1747104f296.avif",
+    "static/media/cart-large-2-svgrepo-com.svg": "/testvo/static/media/cart-large-2-svgrepo-com.ddba0afa419185152b4ed9129d798fe0.svg",
+    "static/media/keyboard-arrow-right.svg": "/testvo/static/media/keyboard-arrow-right.ef427bc92f0ea5158c4f7821769cf188.svg",
+    "index.html": "/testvo/index.html",
+    "static/media/akar-icons_chevron-right.svg": "/testvo/static/media/akar-icons_chevron-right.b1dd274b2502ca8ea7daa759e370147d.svg",
+    "main.ad10ecec.css.map": "/testvo/static/css/main.ad10ecec.css.map",
+    "main.6ccc846e.js.map": "/testvo/static/js/main.6ccc846e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad10ecec.css",
+    "static/js/main.6ccc846e.js"
+  ]
+}
