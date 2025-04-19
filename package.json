@@ -2,7 +2,7 @@
   "name": "newvoltamp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://neverhoxx.github.io/testvo/",
+  "homepage": ".",
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
     "@testing-library/dom": "^10.4.0",
